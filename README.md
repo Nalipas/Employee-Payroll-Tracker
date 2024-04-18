@@ -12,8 +12,6 @@ This application is a simple payroll tracker, capable of logging employees and t
 
 This website was built and tested using Chromium based browsers <a href="https://www.opera.com/gx">Opera GX</a> and <a href="(https://www.google.com/chrome/">Google Chrome</a> on a <a href="https://www.microsoft.com/en-us/software-download/windows10%20">Windows 10</a> machine, but should be viewable on any HTML supported browser.
 
-This website was built using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting">CSS nesting</a>, a relatively new feature. If you have issues viewing this webpage on your browser, please <a href="mailto:smoreno2014@gmail.com">contact me</a>.
-
 ### Executing program
 
 Visit the application page, hosted at <a href="https://nalipas.github.io/">https://nalipas.github.io/</a>
