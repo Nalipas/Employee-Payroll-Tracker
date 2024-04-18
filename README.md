@@ -24,17 +24,10 @@ Visit the application page, hosted at <a href="https://nalipas.github.io/">https
 
 If you would like to see the data array, the average of all entered salaries, and list a random employee's name and salary, right click and 'Inspect' the page. This data should be avaiable to you via the console log. 
 
- 
-```
-code blocks for commands
-```
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Please send an email to [smoreno2014\@gmail.com](mailto:smoreno2014@gmail.com?subject=Help) if you have any questions or if the published website returns an error.
 
 ## Authors
 
