@@ -14,7 +14,7 @@ This website was built and tested using Chromium based browsers <a href="https:/
 
 ### Executing program
 
-Visit the application page, hosted at <a href="https://nalipas.github.io/">https://nalipas.github.io/</a>
+Visit the application page, hosted at <a href="https://nalipas.github.io/Employee-Payroll-Tracker/">https://nalipas.github.io/Employee-Payroll-Tracker/</a>
 
 * Click the 'Add Employees' button on the page.
 * Fill out the prompts as given.
