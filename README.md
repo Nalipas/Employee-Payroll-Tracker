@@ -16,11 +16,13 @@ This website was built and tested using Chromium based browsers <a href="https:/
 
 Visit the application page, hosted at <a href="https://nalipas.github.io/Employee-Payroll-Tracker/">https://nalipas.github.io/Employee-Payroll-Tracker/</a>
 
+```
 * Click the 'Add Employees' button on the page.
 * Fill out the prompts as given.
 * After entering an employee's First Name, Last Name, and Salary, you will be prompted to add more employees.
     * If YES, click 'OK', and you will be prompted to enter another set of data.
     * If NO, click 'Cancel', and the entered data will be displayed on the webpage.
+```
 
 If you would like to see the data array, the average of all entered salaries, and list a random employee's name and salary, right click and 'Inspect' the page. This data should be avaiable to you via the console log. 
 
